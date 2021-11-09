@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+
+    <color name="colorPrimary">#021B2A</color>
+    <color name="colorAccent">#C40C0C</color>
+    <color name="colorPrimaryDark">#383CC1</color>
+    <color name="cld">#1E5DFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="dark_grey">#DCDCDC</color>
+    <color name="green_50">#4F971C</color>
+    <color name="grey">#BFBFBF</color>
+    <color name="red">#fe4e4e</color>
+    <color name="holo_green">#82DF4F</color>
+    <color name="dark_grey_blue">#33475c</color>
+    <color name="blue">#6432BE</color>
+    <color name="black_transparent">#40000000</color>
+    <color name="splash_text">#7ffb00</color>
+    <color name="whatsapp_color">#3DE25C</color>
+
+    <color name="newprimary">#383CC1</color>
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorDefaultTab">#ff4d4d4f</color>
+    <color name="colorGray">#888888</color>
+
+
+    <color name="cardItemColor_light">#F1F1F1</color>
+    <color name="mainColor">#3F51B5</color>
+
+</resources>

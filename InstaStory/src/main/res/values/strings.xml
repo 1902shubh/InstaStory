@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Insta Story Saver</string>
+
+
+    <string name="enter_url">Enter Url</string>
+    <string name="enter_valid_url">Enter Valid Url</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="share_txt">Hey view/download this image</string>
+    <string name="share_image_via">Share File via...</string>
+    <string name="do_u_want_to_dlt">Do you want to delete?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+
+    <string name="login">Login to download story</string>
+    <string name="logout">Log out</string>
+
+    <string name="no_net_conn">No Internet Connection</string>
+    <string name="want_download_media">Don\'t Want to Download Media from Private Account?</string>
+    <string name="want_login">Do you want to login?</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
