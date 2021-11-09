@@ -62,7 +62,7 @@ afterEvaluate {
 
                 groupId = 'com.github.1902shubh'
                 artifactId = 'InstagramStory'
-                version = '1.0.6'
+                version = '1.0.7'
             }
         }
     }
