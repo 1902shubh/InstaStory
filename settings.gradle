@@ -8,4 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "InstaStory"
 include ':app'
-include ':InstaStory'
+include ':InstagramStory'
