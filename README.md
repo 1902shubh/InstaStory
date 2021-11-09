@@ -15,6 +15,6 @@ allprojects {
   > Step 2. Add the dependency
   ```gradle
   	dependencies {
-	         implementation 'com.github.1902shubh:InstaStory:1.0.0'
+	         implementation 'com.github.1902shubh:InstaStory:1.1.0'
 	}
   ```
